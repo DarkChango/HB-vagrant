@@ -198,6 +198,8 @@ php:
             - cli
             - intl
             - mcrypt
+            - common
+            - vaadin
         pear: {  }
         pecl:
             - pecl_http
